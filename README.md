@@ -15,7 +15,7 @@
 </div>
 
 <div>
-  <h3>🏫 Education: third year Federal State Autonomous Educational Institution of Higher Education "National Research University ITMO" student</h3>
+  <h3>🏫 Education: third year University ITMO student</h3>
 </div>
 <!--
 **fourlen/fourlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
