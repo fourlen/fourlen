@@ -1,7 +1,8 @@
 <div id="header">
  <h1> Hi, I'm Nikita👋 </h1>
-  <h3> I'm a 20-year-old solidity developer at <a href="https://algebra.finance/" target="_blank">algebra.finance</a> Ex Yandex.Ads C++ backend developer </h3>
-  <img src="https://tenor.com/ru/view/fast-cat-cat-excited-jumping-gif-23730276"/>
+  <h3> I'm a 20-year-old solidity developer at <a href="https://algebra.finance/" target="_blank">algebra.finance</a> </h3>
+  <h3>Ex Yandex.Ads C++ backend developer</h3>
+  <img src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" width="220"/>
 </div>
 
 <div id="header">
@@ -10,7 +11,7 @@
   <h4>Version control:  <img src="https://img.shields.io/badge/Git-blue"/> <img src="https://img.shields.io/badge/GitHub-blue"/> <img src="https://img.shields.io/badge/Gitlab-blue"/></h4> 
   <h4>Backend development:  <img src="https://img.shields.io/badge/Golang-blue"/> <img src="https://img.shields.io/badge/C++-blue"/> <img src="https://img.shields.io/badge/Python (Django framework)-blue"/></h4>
   <h4>Testing:  <img src="https://img.shields.io/badge/PyTest-blue"/> <img src="https://img.shields.io/badge/catch2-blue"/> <img src="https://img.shields.io/badge/mocha-blue"/></h4>
-  <img src="https://tenor.com/ru/view/rofa-cat-rofa-cat-dance-fast-gif-19163304"/>
+  <img src="https://media.tenor.com/e-jW2Jgb8zYAAAAi/rofa-cat-rofa.gif"/>
 </div>
 
 <div>
