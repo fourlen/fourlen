@@ -1,6 +1,6 @@
 <div id="header">
  <h1> Hi, I'm Nikita👋 </h1>
-  <h3> I'm a 20 yo solidity developer at <a href="https://algebra.finance/" target="_blank">algebra.finance</a> </h3>
+  <h3> I'm a 21 yo solidity developer at <a href="https://algebra.finance/" target="_blank">algebra.finance</a> </h3>
   <h3>Ex Yandex.Ads C++ backend developer</h3>
   <img src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" width="220"/>
 </div>
@@ -15,7 +15,7 @@
 </div>
 
 <div>
-  <h3>🏫 Education: third year University ITMO student</h3>
+  <h3>🏫 Education: fourth year University ITMO student</h3>
 </div>
 <!--
 **fourlen/fourlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
